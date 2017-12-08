@@ -1,0 +1,6 @@
+<img alt="riddler.jpg" usemap="#riddler" id="menezparle" src="file:///C:/xampp/htdocs/Fialas/Projet Edu-k/images/riddler.jpg"/>
+<map id="riddler" name="riddler">
+    <area alt="" href="" id="nez" shape="circle" coords="174,139,8" color="4278190080"/>
+    <area alt="" href="" id="hat" shape="poly" coords="107,95,186,127,188,80,144,59,107,95" color="4278190080"/>
+    <area alt="" href="" id="lonely" shape="circle" coords="151,230,14" color="4278190080"/>
+</map>
